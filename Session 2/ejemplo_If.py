@@ -23,4 +23,5 @@ if(p>0.5):
 else:
     print('el pixel es negro')
 
-
+int=[['avion','avion', 8],['avion']]
+print(int.count('avion'))

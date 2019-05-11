@@ -6,3 +6,4 @@ for i in lista:
         maximo=i
 
 print ('el maximo es',maximo)
+
