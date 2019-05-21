@@ -79,3 +79,4 @@ if comp =='si':
     print('Los medicamentos en comun son:', c11&d12)
     print('Los medicamentos exclusivos del paciente %s son:' % id1, c11-d12)
     print('Las medicamentos exclusivos del paciente %s son:' % id2, d12-c11)
+
